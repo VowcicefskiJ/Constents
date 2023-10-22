@@ -1,0 +1,4 @@
+-IC:\Users\vowci\Documents\Firstworkspace\Constents
+-std=c++17
+-target
+
